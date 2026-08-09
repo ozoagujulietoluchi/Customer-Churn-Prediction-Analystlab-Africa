@@ -1,13 +1,8 @@
 # Customer-Churn-Prediction
-Analystlab-Africa
+## Analystlab-Africa Machine Learning Internship
 
-Week 1 Machine Learning Internship Project: Customer Churn Prediction using the Telco Customer Churn dataset.
+### Week 1 Machine Learning Internship Project: Customer Churn Prediction using the Telco Customer Churn dataset.
 
-# Customer Churn Prediction
-
-## AnalystLab Africa Machine Learning Internship
-
-### Week 1: Machine Learning Problem Framing & Data Understanding
 
 ## Project Overview
 
